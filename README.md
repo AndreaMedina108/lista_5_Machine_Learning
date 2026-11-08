@@ -1,6 +1,7 @@
 # Lista 5 - Machine Learning
 
-Este repositorio contiene la solución a la quinta lista de ejercicios. 
+Este repositorio contiene la solución a la quinta lista de ejercicios.
+Se elaboró un análisis de generalización y riesgo empírico (entrenamiento, validación y prueba) en salarios de jugadores de béisbol, comparando modelos de regresión lineal mediante correlación, pruebas t y forward selection
 
 ## Integrantes
 - Andrea Medina Suárez
