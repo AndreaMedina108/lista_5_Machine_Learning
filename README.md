@@ -2,6 +2,9 @@
 
 Este repositorio contiene la solución a la quinta lista de ejercicios. 
 
+## Integrantes
+- Andrea Medina Suárez
+
 ## Estructura
 - `data/`: Contiene los archivos CSV usados en los experimentos.
 - `src/lista5/`: Módulo local con el código reutilizable para la carga de datos, modelos y cálculo de riesgos.
