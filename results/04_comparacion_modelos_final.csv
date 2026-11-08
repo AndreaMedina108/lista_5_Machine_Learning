@@ -1,0 +1,5 @@
+Modelo,Variables,Riesgo train,Riesgo validación,Riesgo prueba
+Todas las variables,"19 (AtBat, Hits, HmRun, Runs, RBI, Walks, Years, CAtBat, CHits, CHmRun, CRuns, CRBI, CWalks, League, Division, PutOuts, Assists, Errors, NewLeague)",68584.8164050023,320423.19189581985,394308.69340579736
+Mayor correlación,"7 (CRBI, CRuns, CHmRun, CHits, CAtBat, CWalks, Years)",115487.24847478738,133035.61220796968,145923.29188105953
+Pruebas t,"3 (AtBat, Assists, CWalks)",161221.36182711483,140085.18704184718,158772.47276805234
+Selección hacia adelante,"3 (CRBI, Years, CRuns)",126982.32353618673,130618.19814403937,126939.59555969642
